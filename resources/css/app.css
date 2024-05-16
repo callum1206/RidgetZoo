@@ -1,0 +1,28 @@
+#appNavbar {
+    background-color: #A6B697;
+}
+
+.appContrastBrown {
+    color: #714423;
+}
+
+.appCardColor {
+    background-color: rgb(238, 238, 238);
+}
+
+.appCardSecondaryColor {
+    background-color: #7a876f;
+}
+
+.appCardHeaderSecondaryColor {
+    background-color: #a6b697;
+}
+
+.appSidebar {
+    background-color: #C8D2AE;
+}
+
+.appFooterColor {
+    background-color: #7a876f;
+
+}
